@@ -18,7 +18,7 @@ Installation
               ));
           }
           
-  3. Enable the helper in your settings.yml file
+  3. edit your app.yml file
 
           // apps/frontend/config/app.yml
           all:
